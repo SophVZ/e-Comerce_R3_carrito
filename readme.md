@@ -1,6 +1,6 @@
 Repositorio 3 (3/3): carrito
 
-El precente proyecto corresponde al desarrollo front-end de un e-comerce llamado "Meme Store", el cual esta separado en tres repositorios.
+El precente proyecto corresponde al desarrollo front-end de un e-comerce llamado "Meme Store", el cual esta separado en tres repositorios, como fue solicitado para este proyecto.
 
 Este repositorio contiene la página del carrito (carrito.html). Esta página utiliza el localStorage del navegador para recuperar los productos que el usuario ha seleccionado en las otras páginas del sitio y muestra una tabla dinámica con los ítems, precio, cantidad y subtotal. Permite al usuario vaciar el carrito y simular una "finalización de compra".
 Esta página reutiliza los assets (CSS, JS) del Repositorio 1 para mantener una apariencia y funcionalidad consistentes, como el contador del carrito, o los estilos.
